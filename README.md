@@ -135,6 +135,18 @@ Records without a usable baseline cannot trigger a flag from that comparison.
 
 The threshold is an initial engineering choice and has not yet been established as optimal through a labeled evaluation dataset. Being above a baseline is a signal for review, not proof of fraud or an incorrect invoice.
 
+## Anomaly Detection Threshold
+
+The current implementation uses a provisional 10% threshold to flag weekly route costs that exceed either the route's historical baseline or the average for similar routes.
+
+A record is flagged when at least one valid baseline comparison is 10% or higher. The threshold is an implementation choice for this submission, not a confirmed requirement from the challenge specification.
+
+The percentage difference is calculated as:
+
+`((Current Rate - Baseline Rate) / Baseline Rate) * 100`
+
+Records without a usable baseline are not automatically flagged by that comparison.
+
 ## 10. Context-Note Matching
 
 The system checks whether an available context note matches the route and relevant time period.
