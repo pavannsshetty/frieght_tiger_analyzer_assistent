@@ -48,11 +48,18 @@ freight-tiger-analyzer/
 │   ├── detect_anomalies.py
 │   ├── match_notes.py
 │   ├── validate_output.py
-│   └── check_reproducibility.py
+│   ├── check_reproducibility.py
+│   ├── verify_calculations.py
+│   └── verify_baselines.py
 ├── tests/
-│   └── test_anomaly_rules.py
-├── .venv/
-└── README.md
+│   ├── test_anomaly_rules.py
+│   └── test_anomaly_verification.py
+├── docs/
+│   ├── reproducibility.md
+│   └── token_cost_report.md
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ## 5. Setup
