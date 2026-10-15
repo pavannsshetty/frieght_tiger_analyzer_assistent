@@ -1,34 +1,23 @@
-
 import pandas as pd
 from pathlib import Path
 
-# Project folder
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 
-# Read weekly route costs
 input_file = PROJECT_DIR / "data" / "weekly_route_costs.csv"
 df = pd.read_csv(input_file, parse_dates=["week_of"])
 
-# Sort by route and week
 route_columns = ["origin", "destination", "route_type"]
 
 df = df.sort_values(
     route_columns + ["week_of"]
 ).reset_index(drop=True)
 
-# --------------------------------------------------
-# BASELINE 1: OWN HISTORY
-# --------------------------------------------------
-
-# Create a unique identifier for each route
 df["route_id"] = (
     df["origin"] + "|" +
     df["destination"] + "|" +
     df["route_type"]
 )
 
-# Create a complete calendar of Mondays so that
-# missing shipment weeks are not treated as adjacent weeks.
 all_weeks = pd.date_range(
     start=df["week_of"].min(),
     end=df["week_of"].max(),
@@ -52,7 +41,6 @@ calendar = calendar.merge(
     how="left"
 )
 
-# Add the actual weekly costs to the calendar
 calendar = calendar.merge(
     df[
         ["route_id", "week_of", "cost_per_tonne_km"]
@@ -65,8 +53,6 @@ calendar = calendar.sort_values(
     ["route_id", "week_of"]
 ).reset_index(drop=True)
 
-# Calculate the average of the previous 8 calendar weeks.
-# shift(1) ensures the current week is excluded.
 calendar["vs_own_history"] = (
     calendar.groupby("route_id")["cost_per_tonne_km"]
     .transform(
@@ -77,12 +63,6 @@ calendar["vs_own_history"] = (
     )
 )
 
-# --------------------------------------------------
-# BASELINE 2: SIMILAR ROUTES
-# --------------------------------------------------
-
-# Average the weekly rates of all routes sharing
-# the same route_type and week_of.
 peer_stats = (
     df.groupby(["route_type", "week_of"])
     ["cost_per_tonne_km"]
@@ -90,14 +70,12 @@ peer_stats = (
     .reset_index()
 )
 
-# Attach the totals and counts to each route.
 df = df.merge(
     peer_stats,
     on=["route_type", "week_of"],
     how="left"
 )
 
-# Remove this route's own rate and count.
 other_route_count = df["count"] - 1
 other_route_sum = df["sum"] - df["cost_per_tonne_km"]
 
@@ -107,10 +85,6 @@ df["vs_similar_routes"] = (
 
 df = df.drop(columns=["sum", "count"])
 
-# --------------------------------------------------
-# COMBINE BOTH BASELINES
-# --------------------------------------------------
-
 df = df.merge(
     calendar[
         ["route_id", "week_of", "vs_own_history"]
@@ -119,15 +93,12 @@ df = df.merge(
     how="left"
 )
 
-# Remove temporary columns
 df = df.drop(columns=["route_id"])
 
-# Round values for readability
 df["cost_per_tonne_km"] = df["cost_per_tonne_km"].round(6)
 df["vs_own_history"] = df["vs_own_history"].round(6)
 df["vs_similar_routes"] = df["vs_similar_routes"].round(6)
 
-# Save the results
 output_file = PROJECT_DIR / "data" / "route_baselines.csv"
 
 df.to_csv(

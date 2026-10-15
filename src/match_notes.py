@@ -44,7 +44,7 @@ def match_note(row, notes):
         note_date = pd.to_datetime(note["date"], errors="coerce")
         applies_to = str(note["applies_to"]).strip().lower()
 
-        # N001: Chennai-Bangalore flooding, Feb 24–Mar 8, 2025.
+
         if note_id == "N001":
             if (
                 route == "chennai-bangalore"
@@ -58,7 +58,6 @@ def match_note(row, notes):
                     "costs (context note N001)."
                 )
 
-        # N002: Ahmedabad-Mumbai festival surcharge week.
         elif note_id == "N002":
             if (
                 route == "ahmedabad-mumbai"
@@ -69,8 +68,7 @@ def match_note(row, notes):
                     "reported for Ahmedabad-Mumbai (context note N002)."
                 )
 
-        # N003: nationwide diesel-price increase.
-        # Require the observed own-history increase to be around 5–7%.
+    
         elif note_id == "N003":
             if (
                 applies_to == "all routes"

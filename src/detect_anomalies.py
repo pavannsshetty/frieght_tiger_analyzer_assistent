@@ -6,8 +6,6 @@ DATA_DIR = Path("data")
 INPUT_FILE = DATA_DIR / "route_baselines.csv"
 OUTPUT_FILE = DATA_DIR / "anomaly_results.csv"
 
-# Provisional threshold for initial testing.
-# Tune this using labeled examples or documented evaluation.
 ANOMALY_THRESHOLD_PCT = 10.0
 
 
@@ -30,7 +28,7 @@ def main():
     ]:
         df[col] = pd.to_numeric(df[col], errors="coerce")
 
-    # Percentage difference relative to each baseline.
+
     df["history_difference"] = (
         df["cost_per_tonne_km"] - df["vs_own_history"]
     )
