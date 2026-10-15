@@ -54,7 +54,7 @@ Ahmedabad -> Mumbai,2024-12-23,2.632942,2.550735,2.72594,No,,Not flagged by the 
 Ahmedabad -> Mumbai,2024-12-30,2.547775,2.545776,2.681339,No,,Not flagged by the current baseline comparison.
 Ahmedabad -> Mumbai,2025-01-06,2.513464,2.549037,2.61592,No,,Not flagged by the current baseline comparison.
 Ahmedabad -> Mumbai,2025-01-13,2.604915,2.540095,2.610332,No,,Not flagged by the current baseline comparison.
-Ahmedabad -> Mumbai,2025-01-20,3.290367,2.541352,2.686152,No (justified),N002,A temporary festival-week transporter surcharge was reported for Ahmedabad-Mumbai (context note N002).
+Ahmedabad -> Mumbai,2025-01-20,3.290367,2.541352,2.686152,No (justified),N002,Context note N002 provides supporting cost-related context: A regional festival week saw a temporary surcharge applied by transporters on the Ahmedabad-Mumbai corridor due to high demand and limited truck availability. [Note ID: N002]
 Ahmedabad -> Mumbai,2025-01-27,2.460817,2.628017,2.655187,No,,Not flagged by the current baseline comparison.
 Ahmedabad -> Mumbai,2025-02-03,2.493984,2.623532,2.612946,No,,Not flagged by the current baseline comparison.
 Ahmedabad -> Mumbai,2025-02-10,2.443116,2.624549,2.677183,No,,Not flagged by the current baseline comparison.
@@ -127,15 +127,15 @@ Chennai -> Bangalore,2024-05-20,2.672829,2.689827,2.65383,No,,Not flagged by the
 Chennai -> Bangalore,2024-05-27,2.725582,2.682295,2.546024,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-06-03,2.763078,2.6846,2.539469,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-06-10,2.604188,2.685479,2.461046,No,,Not flagged by the current baseline comparison.
-Chennai -> Bangalore,2024-06-17,2.805298,2.675859,2.546169,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Chennai -> Bangalore,2024-06-17,2.805298,2.675859,2.546169,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Chennai -> Bangalore,2024-06-24,2.654392,2.702585,2.660358,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-07-01,2.764758,2.693303,2.57926,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-07-08,2.676925,2.718556,2.607682,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-07-15,2.776951,2.708381,2.619624,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-07-22,2.655142,2.721396,2.587928,No,,Not flagged by the current baseline comparison.
-Chennai -> Bangalore,2024-07-29,2.774044,2.712592,2.511577,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Chennai -> Bangalore,2024-07-29,2.774044,2.712592,2.511577,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Chennai -> Bangalore,2024-08-05,2.618005,2.713962,2.598835,No,,Not flagged by the current baseline comparison.
-Chennai -> Bangalore,2024-08-12,2.793565,2.715689,2.50064,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Chennai -> Bangalore,2024-08-12,2.793565,2.715689,2.50064,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Chennai -> Bangalore,2024-08-19,2.762501,2.714223,2.646658,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-08-26,2.671235,2.727736,2.547765,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2024-09-02,2.557969,2.716046,2.528342,No,,Not flagged by the current baseline comparison.
@@ -162,19 +162,19 @@ Chennai -> Bangalore,2025-01-20,2.797559,2.700555,2.932556,No,,Not flagged by th
 Chennai -> Bangalore,2025-01-27,2.738179,2.705472,2.516506,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-02-03,2.683215,2.70614,2.51833,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-02-10,2.719396,2.71028,2.539043,No,,Not flagged by the current baseline comparison.
-Chennai -> Bangalore,2025-02-17,2.842909,2.714097,2.576805,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Chennai -> Bangalore,2025-02-24,3.582827,2.725327,2.583743,No (justified),N001,"Flooding disrupted Chennai-Bangalore truck movement from Feb 24 to Mar 8, forcing detours and higher trip costs (context note N001)."
-Chennai -> Bangalore,2025-03-03,3.476189,2.831172,2.633954,No (justified),N001,"Flooding disrupted Chennai-Bangalore truck movement from Feb 24 to Mar 8, forcing detours and higher trip costs (context note N001)."
-Chennai -> Bangalore,2025-03-10,3.571667,2.925746,2.668667,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Chennai -> Bangalore,2025-03-17,3.469237,3.051493,2.599127,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Chennai -> Bangalore,2025-02-17,2.842909,2.714097,2.576805,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Chennai -> Bangalore,2025-02-24,3.582827,2.725327,2.583743,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Chennai -> Bangalore,2025-03-03,3.476189,2.831172,2.633954,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Chennai -> Bangalore,2025-03-10,3.571667,2.925746,2.668667,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Chennai -> Bangalore,2025-03-17,3.469237,3.051493,2.599127,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Chennai -> Bangalore,2025-03-24,2.709262,3.135452,2.521353,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-03-31,2.784272,3.131838,2.62989,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-04-07,2.739738,3.14447,2.538209,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-04-14,2.700641,3.147013,2.50833,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-04-21,2.590074,3.129229,2.594561,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-04-28,2.693538,3.005135,2.614844,No,,Not flagged by the current baseline comparison.
-Chennai -> Bangalore,2025-05-05,2.951361,2.907304,2.663824,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Chennai -> Bangalore,2025-05-12,2.956443,2.829765,2.616206,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Chennai -> Bangalore,2025-05-05,2.951361,2.907304,2.663824,No (justified),N003,"Context note N003 provides supporting cost-related context: Diesel prices rose nationwide starting this week, pushing up transportation costs across all routes by roughly 5-7%. [Note ID: N003]"
+Chennai -> Bangalore,2025-05-12,2.956443,2.829765,2.616206,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Chennai -> Bangalore,2025-05-19,2.820105,2.765666,2.699591,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-05-26,2.78321,2.779522,2.726495,No,,Not flagged by the current baseline comparison.
 Chennai -> Bangalore,2025-06-02,2.917898,2.779389,2.672335,No,,Not flagged by the current baseline comparison.
@@ -221,7 +221,7 @@ Delhi -> Chennai,2024-03-11,2.02033,2.091701,2.022017,No,,Not flagged by the cur
 Delhi -> Chennai,2024-03-18,2.21293,2.075903,2.06196,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-03-25,2.051098,2.099093,2.047224,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-04-01,2.039962,2.105348,1.99832,No,,Not flagged by the current baseline comparison.
-Delhi -> Chennai,2024-04-08,2.175122,2.082748,1.967855,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Delhi -> Chennai,2024-04-08,2.175122,2.082748,1.967855,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Delhi -> Chennai,2024-04-15,2.18959,2.099075,2.073192,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-04-22,2.040537,2.105991,2.099186,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-04-29,2.041307,2.097752,2.110931,No,,Not flagged by the current baseline comparison.
@@ -230,7 +230,7 @@ Delhi -> Chennai,2024-05-13,2.146846,2.098613,2.049533,No,,Not flagged by the cu
 Delhi -> Chennai,2024-05-20,2.192486,2.090352,2.120604,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-05-27,2.090932,2.108026,2.108798,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-06-03,2.175507,2.114397,2.08703,No,,Not flagged by the current baseline comparison.
-Delhi -> Chennai,2024-06-10,2.184543,2.114445,1.972624,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Delhi -> Chennai,2024-06-10,2.184543,2.114445,1.972624,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Delhi -> Chennai,2024-06-17,2.189847,2.113814,2.09602,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-06-24,2.084654,2.132478,2.092585,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-07-01,2.118067,2.137896,1.968134,No,,Not flagged by the current baseline comparison.
@@ -249,7 +249,7 @@ Delhi -> Chennai,2024-09-23,2.116523,2.08261,2.039287,No,,Not flagged by the cur
 Delhi -> Chennai,2024-09-30,2.06621,2.097822,2.062061,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-10-07,1.992336,2.106379,2.130967,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-10-14,2.190177,2.093103,2.039296,No,,Not flagged by the current baseline comparison.
-Delhi -> Chennai,2024-10-21,2.180136,2.108002,1.973075,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Delhi -> Chennai,2024-10-21,2.180136,2.108002,1.973075,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Delhi -> Chennai,2024-10-28,2.043592,2.115189,2.003529,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-11-04,2.136986,2.106859,2.018125,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2024-11-11,2.041988,2.109108,2.10021,No,,Not flagged by the current baseline comparison.
@@ -263,10 +263,10 @@ Delhi -> Chennai,2024-12-30,2.170761,2.05257,1.990858,No,,Not flagged by the cur
 Delhi -> Chennai,2025-01-06,2.018915,2.056792,2.080449,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2025-01-13,1.99731,2.053907,2.026831,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2025-01-20,1.962417,2.054813,2.087302,No,,Not flagged by the current baseline comparison.
-Delhi -> Chennai,2025-01-27,2.181332,2.051529,1.982312,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Delhi -> Chennai,2025-01-27,2.181332,2.051529,1.982312,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Delhi -> Chennai,2025-02-03,2.214595,2.078185,2.036538,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2025-02-10,2.038185,2.08386,2.006206,No,,Not flagged by the current baseline comparison.
-Delhi -> Chennai,2025-02-17,2.219288,2.08412,1.983304,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Delhi -> Chennai,2025-02-17,2.219288,2.08412,1.983304,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Delhi -> Chennai,2025-02-24,2.076578,2.10035,2.054915,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2025-03-03,2.151957,2.088578,2.02254,No,,Not flagged by the current baseline comparison.
 Delhi -> Chennai,2025-03-10,2.118781,2.105208,2.053326,No,,Not flagged by the current baseline comparison.
@@ -356,8 +356,8 @@ Delhi -> Jaipur,2024-10-14,3.094566,3.106563,3.354494,No,,Not flagged by the cur
 Delhi -> Jaipur,2024-10-21,3.077672,3.108961,3.337519,No,,Not flagged by the current baseline comparison.
 Delhi -> Jaipur,2024-10-28,3.034213,3.105408,3.492012,No,,Not flagged by the current baseline comparison.
 Delhi -> Jaipur,2024-11-04,3.007015,3.099511,3.422778,No,,Not flagged by the current baseline comparison.
-Delhi -> Jaipur,2024-11-11,4.172957,3.079217,3.447746,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Delhi -> Jaipur,2024-11-18,4.090564,3.205295,3.418111,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Delhi -> Jaipur,2024-11-11,4.172957,3.079217,3.447746,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Delhi -> Jaipur,2024-11-18,4.090564,3.205295,3.418111,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Delhi -> Jaipur,2024-11-25,3.057647,3.322643,3.431945,No,,Not flagged by the current baseline comparison.
 Delhi -> Jaipur,2024-12-02,3.045067,3.327883,3.440495,No,,Not flagged by the current baseline comparison.
 Delhi -> Jaipur,2024-12-09,3.221486,3.322463,3.428173,No,,Not flagged by the current baseline comparison.
@@ -590,7 +590,7 @@ Mumbai -> Delhi,2025-04-14,1.991313,2.035563,1.983596,No,,Not flagged by the cur
 Mumbai -> Delhi,2025-04-21,2.003796,2.036564,2.06315,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-04-28,1.985836,2.030175,2.067759,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-05-05,2.172759,2.025587,2.198697,No,,Not flagged by the current baseline comparison.
-Mumbai -> Delhi,2025-05-12,2.277681,2.040516,2.135516,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Delhi,2025-05-12,2.277681,2.040516,2.135516,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Delhi,2025-05-19,2.119684,2.068726,2.109414,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-05-26,2.187511,2.076612,2.111363,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-06-02,2.257286,2.09614,2.063024,No,,Not flagged by the current baseline comparison.
@@ -604,12 +604,12 @@ Mumbai -> Delhi,2025-07-21,2.20566,2.187109,2.03929,No,,Not flagged by the curre
 Mumbai -> Delhi,2025-07-28,2.230859,2.189378,2.06271,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-08-04,2.109824,2.186074,2.177724,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-08-11,2.161648,2.173552,1.987563,No,,Not flagged by the current baseline comparison.
-Mumbai -> Delhi,2025-08-18,2.224053,2.16254,2.0092,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Delhi,2025-08-18,2.224053,2.16254,2.0092,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Delhi,2025-08-25,2.101999,2.162545,2.016426,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-09-01,2.172768,2.158432,2.129773,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-09-08,2.095873,2.165469,2.147411,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-09-15,2.175696,2.162836,2.055585,No,,Not flagged by the current baseline comparison.
-Mumbai -> Delhi,2025-09-22,2.21766,2.15909,1.981619,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Delhi,2025-09-22,2.21766,2.15909,1.981619,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Delhi,2025-09-29,2.184463,2.15744,2.084687,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-10-06,2.265882,2.16677,2.107767,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-10-13,2.143034,2.179799,2.053606,No,,Not flagged by the current baseline comparison.
@@ -618,112 +618,112 @@ Mumbai -> Delhi,2025-10-27,2.119583,2.170688,2.18126,No,,Not flagged by the curr
 Mumbai -> Delhi,2025-11-03,2.130822,2.16404,2.034638,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-11-10,2.11503,2.168408,2.197443,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-11-17,2.108128,2.160825,2.000526,No,,Not flagged by the current baseline comparison.
-Mumbai -> Delhi,2025-11-24,2.238186,2.147134,2.029319,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Delhi,2025-11-24,2.238186,2.147134,2.029319,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Delhi,2025-12-01,2.150178,2.153849,2.071703,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-12-08,2.165596,2.139386,1.98288,No,,Not flagged by the current baseline comparison.
 Mumbai -> Delhi,2025-12-15,2.143948,2.142206,1.967585,No,,Not flagged by the current baseline comparison.
-Mumbai -> Delhi,2025-12-22,2.215853,2.146434,1.990528,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-01-01,3.301276,,3.000125,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-01-08,3.38194,3.301276,3.053239,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-01-15,3.411523,3.341608,3.018285,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-01-22,3.378892,3.364913,2.990521,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Delhi,2025-12-22,2.215853,2.146434,1.990528,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-01-01,3.301276,,3.000125,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-01-08,3.38194,3.301276,3.053239,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-01-15,3.411523,3.341608,3.018285,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-01-22,3.378892,3.364913,2.990521,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-01-29,3.279358,3.368408,3.193044,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-02-05,3.290517,3.350598,3.019563,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-02-12,3.280938,3.340584,3.114203,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-02-19,3.380258,3.332063,2.994247,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-02-19,3.380258,3.332063,2.994247,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-02-26,3.249926,3.338088,3.095923,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-03-04,3.409884,3.331669,3.000887,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-03-04,3.409884,3.331669,3.000887,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-03-11,3.341096,3.335162,3.112901,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-03-18,3.414569,3.326359,3.079483,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-03-25,3.533516,3.330818,3.174517,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-04-01,3.328961,3.362588,2.989638,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-04-08,3.492738,3.367394,3.125595,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-04-15,3.570422,3.393868,3.201475,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-03-18,3.414569,3.326359,3.079483,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-03-25,3.533516,3.330818,3.174517,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-04-01,3.328961,3.362588,2.989638,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-04-08,3.492738,3.367394,3.125595,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-04-15,3.570422,3.393868,3.201475,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-04-22,3.325499,3.417639,3.058394,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-04-29,3.515863,3.427086,3.074265,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-05-06,3.504023,3.440333,3.095442,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-04-29,3.515863,3.427086,3.074265,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-05-06,3.504023,3.440333,3.095442,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-05-13,3.302187,3.460699,3.060597,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-05-20,3.34285,3.446651,3.054335,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-05-27,3.444443,3.422818,3.106288,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-05-27,3.444443,3.422818,3.106288,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-06-03,3.3797,3.437253,3.14109,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-06-10,3.533583,3.423123,3.03073,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-06-10,3.533583,3.423123,3.03073,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-06-17,3.331372,3.418519,3.174489,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-06-24,3.349997,3.419253,3.098773,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-07-01,3.366901,3.398519,3.191959,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-07-08,3.545795,3.381379,3.116837,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-07-15,3.444139,3.41183,3.087825,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-07-22,3.515835,3.424491,3.127078,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-07-08,3.545795,3.381379,3.116837,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-07-15,3.444139,3.41183,3.087825,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-07-22,3.515835,3.424491,3.127078,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-07-29,3.389968,3.433415,3.146639,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-08-05,3.370549,3.434699,3.056897,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-08-12,3.345203,3.41432,3.002556,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-08-19,3.421755,3.416048,3.075385,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-08-05,3.370549,3.434699,3.056897,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-08-12,3.345203,3.41432,3.002556,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-08-19,3.421755,3.416048,3.075385,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-08-26,3.391553,3.425018,3.106097,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-09-02,3.287612,3.4281,3.081389,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-09-09,3.275053,3.395827,3.169367,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-09-16,3.42981,3.374691,3.16433,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-09-23,3.467829,3.363938,3.15178,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-09-30,3.422261,3.373671,3.015728,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-10-07,3.513116,3.380134,3.088429,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-09-23,3.467829,3.363938,3.15178,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-09-30,3.422261,3.373671,3.015728,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-10-07,3.513116,3.380134,3.088429,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-10-14,3.354494,3.401124,3.094566,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-10-21,3.337519,3.392716,3.077672,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-10-28,3.492012,3.385962,3.034213,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-11-04,3.422778,3.411512,3.007015,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-10-28,3.492012,3.385962,3.034213,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-11-04,3.422778,3.411512,3.007015,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-11-11,3.447746,3.429977,4.172957,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2024-11-18,3.418111,3.432219,4.090564,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-11-25,3.431945,3.426005,3.057647,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-12-02,3.440495,3.427215,3.045067,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-11-25,3.431945,3.426005,3.057647,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-12-02,3.440495,3.427215,3.045067,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-12-09,3.428173,3.418138,3.221486,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2024-12-16,3.546947,3.427347,3.07675,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2024-12-23,3.506811,3.453526,3.112671,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2024-12-16,3.546947,3.427347,3.07675,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2024-12-23,3.506811,3.453526,3.112671,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2024-12-30,3.403043,3.455376,3.218332,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-01-06,3.498004,3.452909,3.169516,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-01-13,3.528248,3.459191,3.045689,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-01-20,3.50417,3.472958,3.062642,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-01-06,3.498004,3.452909,3.169516,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-01-13,3.528248,3.459191,3.045689,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-01-20,3.50417,3.472958,3.062642,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-01-27,3.386253,3.481986,3.143937,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-02-03,3.332363,3.475206,3.015274,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-02-10,3.387744,3.46323,2.989366,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-02-17,3.408511,3.44333,3.096863,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-02-24,3.410401,3.431042,3.082665,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-02-03,3.332363,3.475206,3.015274,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-02-10,3.387744,3.46323,2.989366,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-02-17,3.408511,3.44333,3.096863,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-02-24,3.410401,3.431042,3.082665,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-03-03,3.500061,3.431962,3.218616,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-03-10,3.515234,3.432219,3.182978,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-03-17,3.390391,3.430592,3.078515,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-03-10,3.515234,3.432219,3.182978,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-03-17,3.390391,3.430592,3.078515,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-03-24,3.346796,3.41637,3.139245,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2025-03-31,3.232238,3.411438,3.055609,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-04-07,3.526218,3.398922,3.188164,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-04-14,3.399352,3.416231,2.995309,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-04-07,3.526218,3.398922,3.188164,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-04-14,3.399352,3.416231,2.995309,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-04-21,3.293837,3.415086,3.072194,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-04-28,3.414781,3.400516,3.033777,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-04-28,3.414781,3.400516,3.033777,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-05-05,3.614807,3.389856,3.323787,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-05-12,3.593402,3.402302,3.184887,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-05-12,3.593402,3.402302,3.184887,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-05-19,3.473755,3.427679,3.323582,No,,Not flagged by the current baseline comparison.
 Mumbai -> Pune,2025-05-26,3.477623,3.443549,3.279899,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-06-02,3.571245,3.474222,3.143201,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-06-02,3.571245,3.474222,3.143201,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-06-09,3.474484,3.47985,3.276808,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-06-16,3.719532,3.489242,3.292581,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-06-23,3.762227,3.542454,3.12067,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-06-16,3.719532,3.489242,3.292581,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-06-23,3.762227,3.542454,3.12067,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-06-30,3.54429,3.585884,3.335606,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-07-07,3.639916,3.57707,3.228798,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-07-07,3.639916,3.57707,3.228798,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-07-14,3.591669,3.582884,3.392401,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-07-21,3.527635,3.597623,3.205846,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-07-21,3.527635,3.597623,3.205846,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-07-28,3.563538,3.603875,3.336359,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-08-04,3.725072,3.602911,3.33652,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-08-04,3.725072,3.602911,3.33652,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-08-11,3.530659,3.634235,3.371736,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-08-18,3.785222,3.610626,3.27799,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-08-25,3.631825,3.6135,3.230413,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-08-18,3.785222,3.610626,3.27799,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-08-25,3.631825,3.6135,3.230413,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
 Mumbai -> Pune,2025-09-01,3.668861,3.624442,3.451676,No,,Not flagged by the current baseline comparison.
-Mumbai -> Pune,2025-09-08,3.717367,3.62806,3.249036,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-09-15,3.98081,3.643772,3.220063,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-09-22,3.796873,3.700419,3.213262,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-09-29,3.820635,3.729586,3.435737,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-10-06,3.941934,3.741532,3.207654,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-10-13,3.865549,3.792941,3.304048,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-10-20,4.095334,3.802982,3.280635,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-10-27,4.073234,3.86092,3.175795,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-11-03,4.199375,3.911467,3.384581,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-11-10,3.968031,3.971718,3.267834,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-11-17,4.322077,3.970121,3.284067,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-11-24,4.156422,4.035771,3.377952,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-12-01,4.392798,4.077744,3.197263,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-12-08,4.431941,4.134102,3.192949,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-12-15,4.388091,4.204902,3.238369,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
-Mumbai -> Pune,2025-12-22,4.485336,4.241496,3.228925,Yes,,"Flagged by the current baseline comparison, but no supporting context note was matched. No route- and time-matched note sufficiently explains this cost increase."
+Mumbai -> Pune,2025-09-08,3.717367,3.62806,3.249036,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-09-15,3.98081,3.643772,3.220063,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-09-22,3.796873,3.700419,3.213262,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-09-29,3.820635,3.729586,3.435737,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-10-06,3.941934,3.741532,3.207654,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-10-13,3.865549,3.792941,3.304048,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-10-20,4.095334,3.802982,3.280635,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-10-27,4.073234,3.86092,3.175795,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-11-03,4.199375,3.911467,3.384581,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-11-10,3.968031,3.971718,3.267834,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-11-17,4.322077,3.970121,3.284067,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-11-24,4.156422,4.035771,3.377952,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-12-01,4.392798,4.077744,3.197263,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-12-08,4.431941,4.134102,3.192949,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-12-15,4.388091,4.204902,3.238369,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
+Mumbai -> Pune,2025-12-22,4.485336,4.241496,3.228925,Yes,,"Flagged by the baseline comparison, but no supporting route- and time-matched cost note was found. The cause remains unexplained."
